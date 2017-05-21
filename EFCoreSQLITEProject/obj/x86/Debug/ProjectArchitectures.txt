@@ -1,0 +1,1 @@
+C:\projects\EFCoreSQLITEProject\EFCoreSQLITEProject\EFCoreSQLITEProject.csproj;x86
